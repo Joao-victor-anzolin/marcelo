@@ -1,3 +1,25 @@
+body{
+    margin: 0;
+}
 #texto{
     background-color: aqua;
+}
+#img{
+    
+    display: flex;
+    width: auto;
+    display: none;
+}
+#img img {
+    width: 100%;
+ 
+
+}
+#botao{
+
+width: auto;
+height: 50px;
+color: rgb(0, 0, 0);
+background-color: gray;
+
 }
